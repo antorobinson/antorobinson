@@ -19,6 +19,3 @@
 <a href="https://github.com/antorobinson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antorobinson&theme=light&count_private=true&layout=compact" alt="Sahaya Anto Robinson's most used languages" />
 </a>
-<a href="https://github.com/antorobinson">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=antorobinson&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Sahaya Anto Robinson's github stats"/>
-</a>
